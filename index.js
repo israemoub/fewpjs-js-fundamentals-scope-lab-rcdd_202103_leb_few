@@ -1,7 +1,7 @@
-animal = ""
+let animal = ""
 
-function myAnimal(animal) {
-  return animal;
+function myAnimal() {
+  return animal
 }
 
 function yourAnimal() {
